@@ -71,5 +71,3 @@ ps -ef
 ## Enhance error handling and reporting for better user experience.
 # 10. Contact Information
 ## If you encounter any issues or have questions, please contact me at: [Your Email Address].
-
- 
